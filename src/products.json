@@ -2,139 +2,139 @@
   "_id": {
     "$oid": "66d751e98e8ea877560278f3"
   },
-  "title": "Huevo Kinder",
-  "description": "Huevo Kinder Sorpresa, chocolate con leche.",
+  "title": "Aceite de oliva Suave",
+  "description": "Aceite de oliva de variedad suave.",
   "code": "HKS",
   "price": 2000,
   "status": true,
   "stock": 24,
-  "category": "Chocolates",
-  "thumbnails": "/images/1725387241963-50081000_huevo_kinder_con_leche_sorpresa_x20_gramos.jpg",
+  "category": "Aceite",
+  "thumbnails": "https://ardiaprod.vtexassets.com/arquivos/ids/206367/Aceite-de-Oliva-Cocinero-Extra-Virgen-Suave-500-Ml-_1.jpg?v=637636616407400000",
   "__v": 0
 },
 {
   "_id": {
     "$oid": "66d7520e8e8ea877560278f6"
   },
-  "title": "Chocolate Nevado Biznikke",
-  "description": "Chocolate negro, mezclado con chocolate blanco.",
+  "title": "Aceite de oliva Intenso",
+  "description": "Aceite de oliva  de variedad intenso.",
   "code": "CNB",
   "price": 800,
   "status": true,
   "stock": 12,
-  "category": "Chocolates",
-  "thumbnails": "/images/1725387278897-Chocolate-Biznikke-Nevado-28-Gr-_1.png",
+  "category": "Aceite",
+  "thumbnails": "https://carrefourar.vtexassets.com/arquivos/ids/202520/7791728241181_02.jpg?v=637562655129170000",
   "__v": 0
 },
 {
   "_id": {
     "$oid": "66d7522e8e8ea877560278f9"
   },
-  "title": "Palitos de la selva",
-  "description": "Bolsa de palitos de la selva",
+  "title": "Pasta de aceitunas verde",
+  "description": "Pasta de aceitunas verdes",
   "code": "PDLS",
   "price": 1500,
   "status": true,
   "stock": 6,
-  "category": "Caramelos",
-  "thumbnails": "/images/1725387310576-3D-Flexible-Palito-de-la-Selva-x-150gr-2023-Sellos-copy.png",
+  "category": "Untables",
+  "thumbnails": "https://www.casaterre.com.ar/wp-content/uploads/2019/05/19_03_aceitunasAceites-19-1030x1030.png",
   "__v": 0
 },
 {
   "_id": {
     "$oid": "66d752568e8ea877560278fc"
   },
-  "title": "Alfajor Aguila",
-  "description": "Minitorta Aguila de coco",
+  "title": "Pasta de aceitunas negras",
+  "description": "Pasta de aceitunas negras",
   "code": "AGC",
   "price": 1300,
   "status": false,
   "stock": 0,
-  "category": "Alfajores",
-  "thumbnails": "/images/1725387350501-20230824-13360.jpg",
+  "category": "Untables",
+  "thumbnails": "https://masonlineprod.vtexassets.com/arquivos/ids/260369/Pasta-Nucete-De-Aceitunas-Negras-190g-2-5181.jpg?v=638013801984800000",
   "__v": 0
 },
 {
   "_id": {
     "$oid": "66d752848e8ea877560278ff"
   },
-  "title": "Flyn Paff",
-  "description": "Caja de caramelos Flyn Paff sabor tutti-frutti",
+  "title": "Mix frutos secos",
+  "description": "Mix de frutos secos premium",
   "code": "FPTF",
   "price": 2400,
   "status": true,
   "stock": 2,
-  "category": "Caramelos",
-  "thumbnails": "/images/1725387396482-D_NQ_NP_932023-MLU74415937830_022024-O.png",
+  "category": "Frutos Secos",
+  "thumbnails": "https://deliyum.com/wp-content/uploads/2021/07/mix-natural-1.png",
   "__v": 0
 },
 {
   "_id": {
     "$oid": "66d752ac8e8ea87756027902"
   },
-  "title": "Cadbury de frutilla",
-  "description": "Chocolate Cadbury con yoghurt de frutilla.",
+  "title": "Almendras",
+  "description": "Bolsa de almendras .",
   "code": "CCF",
   "price": 2300,
   "status": true,
   "stock": 8,
-  "category": "Chocolates",
-  "thumbnails": "/images/1725387436689-frutilla__57668.jpg",
+  "category": "Frutos secos",
+  "thumbnails": "https://www.productoselbici.com/322-thickbox_default/almendra-natural.jpg",
   "__v": 0
 },
 {
   "_id": {
     "$oid": "66d752d48e8ea87756027905"
   },
-  "title": "Alfajor Guaymallén blanco",
-  "description": "Alfajor Guaymallén dulce de leche con chocolate blanco",
+  "title": "Aceitunas rellenas",
+  "description": "Aceitunas verdes rellenas de morron",
   "code": "AGL",
   "price": 450,
   "status": true,
   "stock": 30,
-  "category": "Alfajores",
-  "thumbnails": "/images/1725387476913-guaymallen_blanco__87288.jpg",
+  "category": "Aceitunas",
+  "thumbnails": "https://thumbs.dreamstime.com/b/aceitunas-verdes-rellenas-con-el-pimiento-morr%C3%B3n-36102492.jpg",
   "__v": 0
 },
 {
   "_id": {
     "$oid": "66d752fa8e8ea87756027908"
   },
-  "title": "Alfajor Jorgelín triple",
-  "description": "Alfajor triple de chocolate y dulce de leche",
+  "title": "Aceitunas negras sin carozo",
+  "description": "Aceitunas negras sin carozo",
   "code": "AJTC",
   "price": 1200,
   "status": true,
   "stock": 5,
   "category": "Alfajores",
-  "thumbnails": "/images/1725387514392-images.jpeg",
+  "thumbnails": "https://hidalgo.com.uy/wp-content/uploads/Aceitunas-negras-sin-carozo.jpg",
   "__v": 0
 },
 {
   "_id": {
     "$oid": "66d753258e8ea8775602790b"
   },
-  "title": "Alfajor triple milka",
-  "description": "Alfajor triple de dulche de leche con mousse blanco",
+  "title": "Humo liquido",
+  "description": "Condimento Humo liquido para cocinar",
   "code": "ATM",
   "price": 1300,
   "status": false,
   "stock": 0,
-  "category": "Alfajores",
-  "thumbnails": "/images/1725387557575-milkamoussseblanco-6dd737662c2047064a17148467594518-1024-1024.jpg",
+  "category": "Aceitunas",
+  "thumbnails": "https://cocinachic.net/wp-content/uploads/2012/02/673x6731259263846_humoliquido.jpg",
   "__v": 0
 },
 {
   "_id": {
     "$oid": "66d7534c8e8ea8775602790e"
   },
-  "title": "Mogul Moras",
-  "description": "Gomitas sabor a moras.",
+  "title": "Nueces ",
+  "description": "Paquete de nueces ",
   "code": "GMM",
   "price": 1000,
   "status": true,
   "stock": 15,
-  "category": "Gomitas",
-  "thumbnails": "/images/1725387596800-Mogul_Moras_Gomitas_Sabor_Surtido,_500_g.jpeg",
+  "category": "Frutos Secos",
+  "thumbnails": "https://a2.soysuper.com/890c3662f7b4e7a7fb25210035045836.1500.0.0.0.wmark.d0de3dbd.jpg",
   "__v": 0
 }]
