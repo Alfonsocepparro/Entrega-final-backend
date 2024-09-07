@@ -4,7 +4,7 @@ const { productManagerMongo } = require('../../daos/MONGO/productsManager.mongo.
 
 const cartsRouter = Router();
 
-// Crear un nuevo carrito
+// Crear nuevo carrito
 cartsRouter.post('/', async (req, res) => {
     try {
         const newCart = await cartManagerMongo.createCart();
@@ -14,7 +14,7 @@ cartsRouter.post('/', async (req, res) => {
     }
 });
 
-// Ver los carritos
+// Ver carritos
 cartsRouter.get('/', async (req, res) => {
     try {
         const fetchedCarts = await cartManagerMongo.getCarts()
@@ -26,7 +26,7 @@ cartsRouter.get('/', async (req, res) => {
     }
 })
 
-// Obtener un carrito por su ID
+// Obtener un carrito por ID
 cartsRouter.get('/:cartId', async (req, res) => {
     const { cartId } = req.params;
 
@@ -38,7 +38,7 @@ cartsRouter.get('/:cartId', async (req, res) => {
     }
 });
 
-// Borrar un carrito por su ID
+// Borrar un carrito por ID
 cartsRouter.delete('/:cartId', async (req, res) => {
     const { cartId } = req.params;
 
